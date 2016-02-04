@@ -1,0 +1,42 @@
+div {
+
+	height: 100px;
+	width: 25%;
+}
+
+
+.amarillo {
+	display: block;
+	height: 100px;
+	width: 25%px;
+	background-color: yellow;
+	float: left;
+}
+
+.azul {
+	display: block;
+	height: 100px;
+	width: 25%;
+	background-color: blue;
+	float: left;
+}
+
+.rosa {
+	display: block;
+	height: 100px;
+	width: 25%;
+	background-color: #DF013A;
+	float: left;
+}
+
+.grande {
+	display: block;
+	height: 100px;
+	width: 900px;
+	border: 2px solid gray;
+
+}
+
+.clearfix {
+  overflow: auto;
+}
